@@ -1,6 +1,6 @@
 # 33p Dark
 
-A slick black theme for Visual Studio Code.
+### A slick black theme for Visual Studio Code
 
 **Note:** This theme is in the early stages of development, so some things may not work. If you encounter any weirdness, please [report it](https://github.com/33p/33p-dark/issues), or [submit a pull request](https://github.com/33p/33p-dark) if you like fixing things yourself!
 
