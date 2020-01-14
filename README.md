@@ -26,7 +26,7 @@ You can also [download the repo](https://github.com/33p/33p-dark) and manually e
 
 That sweet looking font in the screenshot is [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
-Bracket coloring comes from the supercool [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) extension, with the following customization in `settings.json`:
+Bracket coloring comes from the supercool [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) extension, with some custom colors added to `settings.json`:
 
 ```
     "bracket-pair-colorizer-2.colors": [
