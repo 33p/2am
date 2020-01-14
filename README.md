@@ -9,6 +9,8 @@ A slick black theme for Visual Studio Code.
 
 ![ScreenShot](https://raw.githubusercontent.com/33p/33p-dark/master/screenshot.png)
 
+\*That nice looking font is [Cascadia Code](https://github.com/microsoft/cascadia-code)
+
 
 ## Install
 
