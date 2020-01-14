@@ -1,0 +1,21 @@
+{
+    "name": "33p-dark",
+    "displayName": "33p Dark",
+    "description": "A dark theme by 33p",
+    "version": "0.1.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "33p Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/33p Dark.json"
+            }
+        ]
+    }
+}
