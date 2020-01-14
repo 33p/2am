@@ -9,8 +9,6 @@
 
 ![ScreenShot](https://raw.githubusercontent.com/33p/33p-dark/master/screenshot.png)
 
-\*That sweet looking font is [Cascadia Code](https://github.com/microsoft/cascadia-code)
-
 
 ## Install
 
@@ -22,6 +20,21 @@ ext install 33p-dark
 ```
 
 You can also [download the repo](https://github.com/33p/33p-dark) and manually extract it to your Visual Studio Code extensions folder.
+
+
+## Extra stuff
+
+That sweet looking font in the screenshot is [Cascadia Code](https://github.com/microsoft/cascadia-code)
+
+Bracket coloring comes from the supercool [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) extension, with the following customization in `settings.json`:
+
+```
+    "bracket-pair-colorizer-2.colors": [
+        "#00ffff",
+        "#44ffdd",
+        "#66ffbb"
+    ],
+```
 
 
 ## Change log
