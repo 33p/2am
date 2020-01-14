@@ -9,12 +9,14 @@
 
 ![ScreenShot](https://raw.githubusercontent.com/33p/33p-dark/master/screenshot.png)
 
-\*That nice looking font is [Cascadia Code](https://github.com/microsoft/cascadia-code)
+\*That sweet looking font is [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
 
 ## Install
 
-Install directly from the Visual Studio Code Marketplace, or in Visual Studio Code press `ctrl/cmd + shift + p` to launch the command palette then run
+Install directly from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=33p.33p-dark).
+
+Or if you're into typing, in Visual Studio Code press `ctrl/cmd + shift + p` to launch the command palette then run
 ```
 ext install 33p-dark
 ```
