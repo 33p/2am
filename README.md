@@ -5,14 +5,14 @@ A slick black theme for Visual Studio Code.
 
 ## Install
 
-This theme is in development and not available on the VSCode Marketplace.
+This theme can be installed directly from the Visual Studio Code Marketplace.
 
-To install, download 33p-dark.vsix from the /build/ folder and double-click.
+To manually install, either download this repo and extract to your  download the latest vsix package from [https://github.com/33p/33p-dark/tree/master/dist](https://github.com/33p/33p-dark/tree/master/dist) and double-click, or run `code --install-extension 33p-dark-{version}.vsix`.
 
 
 ## Screenshot
 
-*Coming soon*
+![ScreenShot](https://raw.githubusercontent.com/33p/33p-dark/master/static/screenshot.png)
 
 
 ## Change log
