@@ -1,11 +1,27 @@
 {
     "name": "33p-dark",
     "displayName": "33p Dark",
-    "description": "A dark theme by 33p",
+    "description": "A slick black Visual Studio Code theme by 33p",
     "version": "0.1.1",
+    "publisher": "33p",
+    "bugs": {
+        "url": "https://github.com/33p/33p-dark/issues"
+    },
+    "homepage": "https://33p.github.io/33p-dark/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/33p/33p-dark"
+    },
+
     "engines": {
         "vscode": "^1.41.0"
     },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#1e1e1e",
+        "theme": "dark"
+    },
+    "preview": true,
     "categories": [
         "Themes"
     ],
@@ -14,8 +30,18 @@
             {
                 "label": "33p Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/33p Dark.json"
+                "path": "./themes/33p-Dark.json"
             }
         ]
-    }
+    },
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Dark",
+        "Black",
+        "Night",
+        "33p"
+    ],
+    "author": "Jeremy Reid @ 33p | https://33p.me",
+    "license": "MIT"
 }

@@ -66,7 +66,7 @@
 		"sideBarSectionHeader.background":           "#1a1a1a",
 		"sideBarSectionHeader.foreground":           "#6c6c6c",
 
-		"editorWhitespace.foreground":               "#292929",
+		"editorWhitespace.foreground":               "#303030",
 		"editor.lineHighlightBackground":            "#292929",
 		"editor.selectionBackground":                "#ee2266",
 		"editor.selectionForeground":                "#000000",
