@@ -14,12 +14,12 @@
 
 Install directly from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=33p.33p-dark).
 
-Or if you're into typing, in Visual Studio Code press `ctrl/cmd + shift + p` to launch the command palette then run
+Or if you're into typing, in VSCode press `ctrl/cmd + shift + p` to launch the command palette then run
 ```
 ext install 33p-dark
 ```
 
-You can also [download the repo](https://github.com/33p/33p-dark) and manually extract it to your Visual Studio Code extensions folder.
+You can also [download the repo](https://github.com/33p/33p-dark) and manually extract it to your extensions folder.
 
 
 ## Extra stuff
@@ -33,7 +33,7 @@ Bracket coloring comes from the supercool [Bracket Pair Colorizer 2](https://mar
         "#00ffff",
         "#44ffdd",
         "#66ffbb"
-    ],
+    ]
 ```
 
 

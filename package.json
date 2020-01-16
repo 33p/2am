@@ -1,8 +1,8 @@
 {
 	"name": "33p-dark",
 	"displayName": "33p Dark",
-	"description": "A slick black Visual Studio Code theme by 33p",
-	"version": "0.2.1",
+	"description": "A slick black Visual Studio Code theme",
+	"version": "0.2.2",
 	"publisher": "33p",
 	"bugs": {
 		"url": "https://github.com/33p/33p-dark/issues"
