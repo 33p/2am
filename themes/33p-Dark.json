@@ -147,7 +147,7 @@
 		"notificationsInfoIcon.foreground":          "#008fce",
 
 		"extensionButton.prominentForeground":       "#e0e0e0", 
-		"extensionButton.prominentBackground":       "#292929",
+		"extensionButton.prominentBackground":       "#4d4d4d",
 		"extensionButton.prominentHoverBackground":  "#ee2266",
 		"extensionBadge.remoteBackground":           "#ee2266",
 		"extensionBadge.remoteForeground":           "#e0e0e0", 

@@ -2,23 +2,13 @@
 
 All notable changes to 33p Dark will be documented in this file.
 
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-- Add definitions for
-	- Activity bar
-	- Editor groups/tabs
-	- Diff editor
-	- Menu bar
-	- Merge
-	- Markdown/up
-	- Welcome page
-	- Settings
-	- Debug & debug icons
-	- Snippets
-	- Symbol icons
-- Tweak
-	- Inputs
-	- Editor widgets, suggestions, etc
+- Pending features will be shown here
+
+## [0.2.3]
+- Fixed extension button background
 
 ## [0.2.2]
 - Additional scopes for variables & keywords
