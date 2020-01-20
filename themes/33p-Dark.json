@@ -8,8 +8,13 @@
 		"widget.shadow":                                 "#00000000",
 		"selection.background":                          "#ee2266",
 
+		"textBlockQuote.background":                     "#191919",
+		"textBlockQuote.border":                         "#ee2266",
+		"textCodeBlock.background":                      "#191919",
 		"textLink.activeForeground":                     "#ee2266",
 		"textLink.foreground":                           "#ee2266",
+		"textPreformat.foreground":                      "#66ffbb",
+		"textSeparator.foreground":                      "#e0e0e0",
 
 		"button.background":                             "#292929",
 		"button.foreground":                             "#e0e0e0",

@@ -8,12 +8,15 @@ Check out the [issues page](https://github.com/33p/33p-dark/issues) over on GitH
 
 
 ## [0.2.4]
-- Added Snippet styling - [#10](https://github.com/33p/33p-dark/issues/10)
-- Added Settings editor styling - [#8](https://github.com/33p/33p-dark/issues/8)
-- Added remaining Activity bar colors - [#1](https://github.com/33p/33p-dark/issues/1)
-- Added Diff editor styling - [#4](https://github.com/33p/33p-dark/issues/4)
-- Added Title bar styling - [#16](https://github.com/33p/33p-dark/issues/16)
-- Added Menu / menu bar styling - [#5](https://github.com/33p/33p-dark/issues/5)
+- Added Text colors (Welcome page, Playground, etc) - [Fixes #12](https://github.com/33p/33p-dark/issues/12) + [Closes #19](https://github.com/33p/33p-dark/issues/19)
+
+## [0.2.4]
+- Added Snippet styling - [Closes #10](https://github.com/33p/33p-dark/issues/10)
+- Added Settings editor styling - [Closes #8](https://github.com/33p/33p-dark/issues/8)
+- Added remaining Activity bar colors - [Closes #1](https://github.com/33p/33p-dark/issues/1)
+- Added Diff editor styling - [Closes #4](https://github.com/33p/33p-dark/issues/4)
+- Added Title bar styling - [Closes #16](https://github.com/33p/33p-dark/issues/16)
+- Added Menu / menu bar styling - [Closes #5](https://github.com/33p/33p-dark/issues/5)
 - Removed tab border color
 - Fixed whitespace color to improve visibility
 - Changed checkbox background color to better match theme
