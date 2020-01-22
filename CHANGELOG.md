@@ -7,8 +7,16 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 Check out the [issues page](https://github.com/33p/33p-dark/issues) over on GitHub for upcoming features/changes.
 
 
-## [0.2.4]
+## [0.2.5]
+- Added some Base colors - [Closes #21](https://github.com/33p/33p-dark/issues/21)
 - Added Text colors (Welcome page, Playground, etc) - [Fixes #12](https://github.com/33p/33p-dark/issues/12) + [Closes #19](https://github.com/33p/33p-dark/issues/19)
+- Added further Welcome page stuff - [Closes #7](https://github.com/33p/33p-dark/issues/7)
+- Added Editor group/tab styling - [Closes #3](https://github.com/33p/33p-dark/issues/3)
+- Added Editor widgets - [Closes #15](https://github.com/33p/33p-dark/issues/15)
+- Added *some* misc editor colors - [See #18](https://github.com/33p/33p-dark/issues/18)
+- Fixed ugly `menu.selectionForeground` - [Fixes #20](https://github.com/33p/33p-dark/issues/20)
+- Fixed dim `sideBarSectionHeader.background` - [Fixes #22](https://github.com/33p/33p-dark/issues/22)
+- Fixed overbright `peekViewTitle.background` - [Fixes #23](https://github.com/33p/33p-dark/issues/23)
 
 ## [0.2.4]
 - Added Snippet styling - [Closes #10](https://github.com/33p/33p-dark/issues/10)
