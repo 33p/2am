@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 
 Check out the [issues page](https://github.com/33p/33p-dark/issues) over on GitHub for upcoming features/changes.
 
+## [0.2.6]
+- Added Editor misc - [Closes #18](https://github.com/33p/33p-dark/issues/18)
+- Fixed added/modifed colors in Gutter and Overview ruler - [Fixes #25](https://github.com/33p/33p-dark/issues/25)
+- Expanded README.md with better install instructions (thanks, Mattia) and some other good info
+- New more colorful and exciting icon
+- Fixed LICENSE
 
 ## [0.2.5]
 - Added some Base colors - [Closes #21](https://github.com/33p/33p-dark/issues/21)
