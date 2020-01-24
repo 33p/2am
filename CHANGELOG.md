@@ -1,36 +1,36 @@
 # Change Log
 
-All notable changes to 33p Dark will be documented in this file.
+All notable changes to 2am will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-Check out the [issues page](https://github.com/33p/33p-dark/issues) over on GitHub for upcoming features/changes.
+Check out the [issues page](https://github.com/33p/2am/issues) over on GitHub for upcoming features/changes.
 
 ## [0.2.6]
-- Added Editor misc - [Closes #18](https://github.com/33p/33p-dark/issues/18)
-- Fixed added/modifed colors in Gutter and Overview ruler - [Fixes #25](https://github.com/33p/33p-dark/issues/25)
+- Added Editor misc - [Closes #18](https://github.com/33p/2am/issues/18)
+- Fixed added/modifed colors in Gutter and Overview ruler - [Fixes #25](https://github.com/33p/2am/issues/25)
 - Expanded README.md with better install instructions (thanks, Mattia) and some other good info
 - New more colorful and exciting icon
 - Fixed LICENSE
 
 ## [0.2.5]
-- Added some Base colors - [Closes #21](https://github.com/33p/33p-dark/issues/21)
-- Added Text colors (Welcome page, Playground, etc) - [Fixes #12](https://github.com/33p/33p-dark/issues/12) + [Closes #19](https://github.com/33p/33p-dark/issues/19)
-- Added further Welcome page stuff - [Closes #7](https://github.com/33p/33p-dark/issues/7)
-- Added Editor group/tab styling - [Closes #3](https://github.com/33p/33p-dark/issues/3)
-- Added Editor widgets - [Closes #15](https://github.com/33p/33p-dark/issues/15)
-- Added *some* misc editor colors - [See #18](https://github.com/33p/33p-dark/issues/18)
-- Fixed ugly `menu.selectionForeground` - [Fixes #20](https://github.com/33p/33p-dark/issues/20)
-- Fixed dim `sideBarSectionHeader.background` - [Fixes #22](https://github.com/33p/33p-dark/issues/22)
-- Fixed overbright `peekViewTitle.background` - [Fixes #23](https://github.com/33p/33p-dark/issues/23)
+- Added some Base colors - [Closes #21](https://github.com/33p/2am/issues/21)
+- Added Text colors (Welcome page, Playground, etc) - [Fixes #12](https://github.com/33p/2am/issues/12) + [Closes #19](https://github.com/33p/2am/issues/19)
+- Added further Welcome page stuff - [Closes #7](https://github.com/33p/2am/issues/7)
+- Added Editor group/tab styling - [Closes #3](https://github.com/33p/2am/issues/3)
+- Added Editor widgets - [Closes #15](https://github.com/33p/2am/issues/15)
+- Added *some* misc editor colors - [See #18](https://github.com/33p/2am/issues/18)
+- Fixed ugly `menu.selectionForeground` - [Fixes #20](https://github.com/33p/2am/issues/20)
+- Fixed dim `sideBarSectionHeader.background` - [Fixes #22](https://github.com/33p/2am/issues/22)
+- Fixed overbright `peekViewTitle.background` - [Fixes #23](https://github.com/33p/2am/issues/23)
 
 ## [0.2.4]
-- Added Snippet styling - [Closes #10](https://github.com/33p/33p-dark/issues/10)
-- Added Settings editor styling - [Closes #8](https://github.com/33p/33p-dark/issues/8)
-- Added remaining Activity bar colors - [Closes #1](https://github.com/33p/33p-dark/issues/1)
-- Added Diff editor styling - [Closes #4](https://github.com/33p/33p-dark/issues/4)
-- Added Title bar styling - [Closes #16](https://github.com/33p/33p-dark/issues/16)
-- Added Menu / menu bar styling - [Closes #5](https://github.com/33p/33p-dark/issues/5)
+- Added Snippet styling - [Closes #10](https://github.com/33p/2am/issues/10)
+- Added Settings editor styling - [Closes #8](https://github.com/33p/2am/issues/8)
+- Added remaining Activity bar colors - [Closes #1](https://github.com/33p/2am/issues/1)
+- Added Diff editor styling - [Closes #4](https://github.com/33p/2am/issues/4)
+- Added Title bar styling - [Closes #16](https://github.com/33p/2am/issues/16)
+- Added Menu / menu bar styling - [Closes #5](https://github.com/33p/2am/issues/5)
 - Removed tab border color
 - Fixed whitespace color to improve visibility
 - Changed checkbox background color to better match theme

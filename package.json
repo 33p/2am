@@ -1,16 +1,16 @@
 {
-	"name": "33p-dark",
-	"displayName": "33p Dark",
+	"name": "2am",
+	"displayName": "2am",
 	"description": "A slick black Code theme",
-	"version": "0.2.6",
+	"version": "1.0.0",
 	"publisher": "33p",
 	"bugs": {
-		"url": "https://github.com/33p/33p-dark/issues"
+		"url": "https://github.com/33p/2am/issues"
 	},
-	"homepage": "https://33p.github.io/33p-dark/",
+	"homepage": "https://33p.github.io/2am/",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/33p/33p-dark"
+		"url": "https://github.com/33p/2am"
 	},
 	"engines": {
 		"vscode": "^1.41.0"
@@ -27,9 +27,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "33p Dark",
+				"label": "2am",
 				"uiTheme": "vs-dark",
-				"path": "./themes/33p-Dark.json"
+				"path": "./themes/2am.json"
 			}
 		]
 	},
@@ -39,6 +39,7 @@
 		"Dark",
 		"Black",
 		"Night",
+		"2am",
 		"33p"
 	],
 	"author": "Jeremy Reid @ 33p | https://33p.me",
