@@ -20,7 +20,7 @@
 		"color": "#292929",
 		"theme": "dark"
 	},
-	"preview": true,
+	"preview": false,
 	"categories": [
 		"Themes"
 	],
