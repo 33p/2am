@@ -1,12 +1,13 @@
 {
 	"name": "2am",
 	"displayName": "2am",
-	"description": "A slick black Code theme",
-	"version": "1.0.0",
+	"description": "A slick dark Code theme",
+	"version": "0.3.0",
 	"publisher": "33p",
 	"bugs": {
 		"url": "https://github.com/33p/2am/issues"
 	},
+	"qna": "marketplace",
 	"homepage": "https://33p.github.io/2am/",
 	"repository": {
 		"type": "git",
@@ -17,7 +18,7 @@
 	},
 	"icon": "icon.png",
 	"galleryBanner": {
-		"color": "#292929",
+		"color": "#191919",
 		"theme": "dark"
 	},
 	"preview": false,
@@ -34,19 +35,15 @@
 		]
 	},
 	"keywords": [
-		"Vscode",
 		"Theme",
 		"Dark",
 		"Black",
 		"Night",
-		"2am",
-		"33p"
+		"2am"
 	],
-	"author": "Jeremy Reid @ 33p | https://33p.me",
-	"license": "MIT",
-	"__metadata": {
-		"id": "6fd65a10-93c7-46b5-9355-d4a81f2a2683",
-		"publisherDisplayName": "33p",
-		"publisherId": "9f622b10-9918-4318-bca4-a5a7bd2e3489"
-	}
+	"author": {
+		"name": "Jeremy Reid",
+		"url": "https://33p.me"
+	},
+	"license": "MIT"
 }

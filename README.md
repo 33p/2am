@@ -2,7 +2,7 @@
 
 ### A slick dark Code theme
 
-**Note:** This theme is in the early stages of development, so some things may not work. If you encounter any weirdness, please [report it](https://github.com/33p/2am/issues), or [submit a pull request](https://github.com/33p/2am) if you like fixing things yourself!
+2am is a dark black Visual Studio Code theme designed to minimize visual noise but still pop where it counts.
 
 ![ScreenShot](https://raw.githubusercontent.com/33p/2am/master/screenshot.png)
 
@@ -10,12 +10,10 @@
 
 Install directly from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=33p.2am).
 
-Or, if you're into typing, hit `ctrl/cmd + p` to launch *Quick Open* then run:Z
+Or, if you're into typing, hit `ctrl/cmd + p` to launch *Quick Open* then run:
 ```
 ext install 2am
 ```
-
-<br />
 
 ## Activate
 

@@ -6,11 +6,20 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 
 Check out the [issues page](https://github.com/33p/2am/issues) over on GitHub for upcoming features/changes.
 
+## [0.3.0]
+- Added Terminal colors - [Closes #26](https://github.com/33p/2am/issues/26)
+
 ## [0.2.6]
 - Added Editor misc - [Closes #18](https://github.com/33p/2am/issues/18)
+- Added Quick input - [Closes #27](https://github.com/33p/2am/issues/27)
+- Added Debug + Debug icons - [Closes #9](https://github.com/33p/2am/issues/9)
 - Fixed added/modifed colors in Gutter and Overview ruler - [Fixes #25](https://github.com/33p/2am/issues/25)
-- Expanded README.md with better install instructions (thanks, Mattia) and some other good info
+- Beefed up `editorLightBulbAutoFix.foreground` to be more visible
+- Renamed theme to 2am, it sounds cooler
+- Expanded README.md with better install instructions and some other good info
 - New more colorful and exciting icon
+- Changes to Marketplace settings in package.json
+- Removed 'preview' flag
 - Fixed LICENSE
 
 ## [0.2.5]
@@ -30,7 +39,7 @@ Check out the [issues page](https://github.com/33p/2am/issues) over on GitHub fo
 - Added remaining Activity bar colors - [Closes #1](https://github.com/33p/2am/issues/1)
 - Added Diff editor styling - [Closes #4](https://github.com/33p/2am/issues/4)
 - Added Title bar styling - [Closes #16](https://github.com/33p/2am/issues/16)
-- Added Menu / menu bar styling - [Closes #5](https://github.com/33p/2am/issues/5)
+- Added Menu + Menu bar styling - [Closes #5](https://github.com/33p/2am/issues/5)
 - Removed tab border color
 - Fixed whitespace color to improve visibility
 - Changed checkbox background color to better match theme
