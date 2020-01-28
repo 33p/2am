@@ -8,6 +8,7 @@ Check out the [issues page](https://github.com/33p/2am/issues) over on GitHub fo
 
 ## [0.3.0]
 - Added Terminal colors - [Closes #26](https://github.com/33p/2am/issues/26)
+- README tweaks
 
 ## [0.2.6]
 - Added Editor misc - [Closes #18](https://github.com/33p/2am/issues/18)

@@ -6,8 +6,9 @@
 
 ![ScreenShot](https://raw.githubusercontent.com/33p/2am/master/screenshot.png)
 
-## Install
+## Installation
 
+### 1. Grab the theme
 Install directly from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=33p.2am).
 
 Or, if you're into typing, hit `ctrl/cmd + p` to launch *Quick Open* then run:
@@ -15,7 +16,7 @@ Or, if you're into typing, hit `ctrl/cmd + p` to launch *Quick Open* then run:
 ext install 2am
 ```
 
-## Activate
+### 2. Activate the theme
 
 Once the theme is installed, use `ctrl/cmd + p` to launch *Quick Open* then enter `theme`, choose `Preferences: Color Theme`, and select **2am**.
 
@@ -57,4 +58,6 @@ Contributions to this theme are always welcome. If you have a suggestion or enco
 
 <br />
 
-**Thanks for checking it out!**
+---
+
+***`Happy coding!`***
