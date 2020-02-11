@@ -293,7 +293,7 @@
 		"terminal.ansiBrightWhite":                          "#ffffff",
 		"terminal.ansiBlack":                                "#4d4d4d",
 		"terminal.ansiBrightBlack":                          "#6c6c6c",
-		"terminal.selectionBackground":                      "#ee2266",
+		"terminal.selectionBackground":                      "#ee226670",
 		"terminalCursor.background":                         "#292929",
 		"terminalCursor.foreground":                         "#e0e0e0",
 
@@ -347,9 +347,9 @@
 		"settings.numberInputForeground":                    "#e0e0e0",
 		"settings.numberInputBorder":                        "#00000000",
 
-		"diffEditor.insertedTextBackground":                 "#a6e22e4f",
+		"diffEditor.insertedTextBackground":                 "#a6e22e50",
 		"diffEditor.insertedTextBorder":                     "#00000000",
-		"diffEditor.removedTextBackground":                  "#ff33004f",
+		"diffEditor.removedTextBackground":                  "#ff330050",
 		"diffEditor.removedTextBorder":                      "#00000000", 
 		"diffEditor.border":                                 "#00000000",
 

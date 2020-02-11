@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 
 Check out the [issues page](https://github.com/33p/2am/issues) over on GitHub for upcoming features/changes.
 
+## [0.3.1]
+- Fixed `minimap.findMatchHighlight` - [Closes #30](https://github.com/33p/2am/issues/30)
+- Fixed `terminal.selectionBackground` - [Closes #31](https://github.com/33p/2am/issues/31)
+
 ## [0.3.0]
 - Added Terminal colors - [Closes #26](https://github.com/33p/2am/issues/26)
 - README tweaks
