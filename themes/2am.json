@@ -11,6 +11,9 @@
 		"errorForeground":                                   "#ff3300",
 		"icon.foreground":                                   "#a0a0a0",
 
+		"window.activeBorder":                               "#141414",
+		"window.inactiveBorder":                             "#000000",
+
 		"textBlockQuote.background":                         "#191919",
 		"textBlockQuote.border":                             "#ee2266",
 		"textCodeBlock.background":                          "#191919",
@@ -63,8 +66,13 @@
 		"listFilterWidget.outline":                          "#ee2266",
 		"tree.indentGuidesStroke":                           "#292929",
 
-		"minimap.findMatchHighlight":                        "#ffff00",
+		"minimap.findMatchHighlight":                        "#ee226650",
 		"minimap.selectionHighlight":                        "#ee2266",
+		"minimap.errorHighlight":                            "#ff3300",
+		"minimap.warningHighlight":                          "#fda642",
+		"minimapGutter.addedBackground":                     "#a6e22e",
+		"minimapGutter.modifiedBackground":                  "#1fb1d4",
+		"minimapGutter.deletedBackground":                   "#ff3300",
 
 		"editorGroup.border":                                "#000000",
 		"editorGroup.dropBackground":                        "#ee2266",
@@ -116,7 +124,7 @@
 		"editorWhitespace.foreground":                       "#3e3e3e",
 		"editor.selectionBackground":                        "#ee2266",
 		"editor.selectionForeground":                        "#000000",
-		"editor.inactiveSelectionBackground":                "#008fce",
+		"editor.inactiveSelectionBackground":                "#ee226688",
 		"editorLineNumber.foreground":                       "#808080",
 		"editorLineNumber.activeForeground":                 "#ee2266",
 		"editor.selectionHighlightBackground":               "#00000000",
@@ -136,6 +144,7 @@
 
 		"searchEditor.findMatchBackground":                  "#00000000",
 		"searchEditor.findMatchBorder":                      "#1fb1d4",
+		"searchEditor.textInputBorder":                      "#ee2266",
 
 		"editor.hoverHighlightBackground":                   "#008fce30",
 
@@ -161,6 +170,8 @@
 
 		"editorBracketMatch.background":                     "#ee2266",
 		"editorBracketMatch.border":                         "#00000000",
+
+		"editor.foldBackground":                             "#141414",
 
 		"editorOverviewRuler.border":                        "#00000000",
 		"editorOverviewRuler.modifiedForeground":            "#1fb1d4",

@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 
 Check out the [issues page](https://github.com/33p/2am/issues) over on GitHub for upcoming features/changes.
 
+## [0.3.2]
+- Added window borders - [Closes #32](https://github.com/33p/2am/issues/32)
+- Added minimap colors - [Closes #33](https://github.com/33p/2am/issues/33)
+- Added `searchEditor.textInputBorder` and `editor.foldBackground`
+- Fixed `minimap.findMatchHighlight` - [Closes #30](https://github.com/33p/2am/issues/30)
+- Fixed `editor.inactiveSelectionBackground` - [Closes #29](https://github.com/33p/2am/issues/29)
+
 ## [0.3.1]
 - Fixed `minimap.findMatchHighlight` - [Closes #30](https://github.com/33p/2am/issues/30)
 - Fixed `terminal.selectionBackground` - [Closes #31](https://github.com/33p/2am/issues/31)
